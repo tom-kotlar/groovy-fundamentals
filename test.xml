@@ -1,0 +1,10 @@
+<cards>
+  <card cardnum='1'>
+    <name>visa</name>
+    <digit>16</digit>
+  </card>
+  <card cardnum='2'>
+    <name>monzo</name>
+    <digit>15</digit>
+  </card>
+</cards>
