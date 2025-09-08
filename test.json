@@ -1,0 +1,12 @@
+{
+    "cards": [
+        {
+            "name": "Visa",
+            "digits": 16
+        },
+        {
+            "name": "Monzo",
+            "digits": 15
+        }
+    ]
+}
